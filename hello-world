@@ -1,0 +1,9 @@
+class HelloWorld(){
+  
+private void helloWorld(){
+  System.out.print("Hello World!");
+  }
+static void main(String[] args){
+  helloWorld();
+  }
+}
