@@ -1,4 +1,4 @@
-class HelloWorld(){
+public class HelloWorld(){
   
 private void helloWorld(){
   System.out.print("Hello World!");
